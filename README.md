@@ -5,46 +5,46 @@ Sistema de gerenciamento de emprestimo, venda, troca e doação de livros.
 Iniciando a modelagem.
 
 venda:
-    - nome
-    - email
-    - cpf
-    - cep
-    - endereço
-    - 
+- nome 
+- email
+- cpf
+- cep
+- endereço
+
 
 Doador:
-    - nome
-    - email
-    - histórico de doações
-    - cpf ou cnpj
-    - endereço
-    - telefone
-    
+- nome
+- email
+- histórico de doações
+- cpf ou cnpj
+- endereço
+- telefone
+
 emprestimo:
-    - nome
-    - email
-    - endereço
-    - telefone
-    - cpf
+- nome
+- email
+- endereço
+- telefone
+- cpf
 
 troca:
-    - nome
-    - email
-    - endereço
-    - telefone
-    - cpf
+- nome
+- email
+- endereço
+- telefone
+- cpf
 
 livro:
-    - titulo
-    - autor
-    - ano publicacao
-    - editora
-    - número de Paginas
-    - preço
+- titulo
+- autor
+- ano publicacao
+- editora
+- número de Paginas
+- preço
 
 Pagamento:
-    - tipo
-    - 
+- tipo
+
 
 #Metodologia
 
