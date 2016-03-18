@@ -11,6 +11,18 @@ venda:
 - cep
 - endereço
 
+Pedido:
+- user
+- data pedido
+- tipo
+
+Usuario:
+- nome
+- email
+- cpf
+- senha
+- endereço
+- username
 
 Doador:
 - nome
@@ -41,6 +53,10 @@ livro:
 - editora
 - número de Paginas
 - preço
+- estoque
+- tags
+- categoria
+- descrição
 
 Pagamento:
 - tipo
